@@ -3,7 +3,6 @@
 A Windows–Kali cybersecurity laboratory project exploring **outbound TCP communications, Windows Firewall policy, remote PowerShell command execution, and startup persistence**.
 
 **Author:** Shekoufeh Neisarian  
-**Project:** CyberSteps — Project 7 (September 2026)
 
 ![Agent 007 — lab architecture and results](Agent-007-Infographic.png)
 
